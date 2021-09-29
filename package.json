@@ -1,0 +1,22 @@
+{
+  "name": "envio-de-emails",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {},
+  "engines": {
+    "node": "14"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bull": "^3.29.2",
+    "csv-parser": "^3.0.0",
+    "csvjson": "^5.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "private": true
+}
